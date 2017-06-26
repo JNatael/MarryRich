@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT29M23.5601804S" SolutionTotalViewTime="PT33M40.5208048S" SolutionTotalDebugTime="PT7M59.8904249S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT20.4729762S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\MarryRich\MarryRich\MarryRich.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\MarryRich\MarryRich\MarryRich.vcxproj</ProjectName>
+      <CreatedDate>2017-05-10T14:39:20.5921094+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT7M59.8904249S" EditActiveTime="PT7M4.9256595S">
+      <ModifiedDate>2017-05-10T14:21:29.2486156+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-10T14:02:20.7100233+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT33M35.6102346S" EditActiveTime="PT29M23.5601804S">
+      <ModifiedDate>2017-05-10T14:37:34.6758239+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>4</ViewedCount>
+      <Item>c:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\MarryRich\MarryRich\MarryRich.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\MarryRich\MarryRich\MarryRich.vcxproj</ProjectName>
+      <CreatedDate>2017-05-10T12:25:52.4982741+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.9105702S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\crt\src\stl\stdthrow.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-10T14:37:43.4842815+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT20.4729762S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\MarryRich\MarryRich\MarryRich.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\MarryRich\MarryRich\MarryRich.vcxproj</ProjectName>
+      <CreatedDate>2017-05-10T14:39:20.5921094+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.9105702S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\crt\src\stl\stdthrow.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-10T14:37:43.4842815+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M0.8809752S" EditActiveTime="PT37.9271134S">
+      <ModifiedDate>2017-05-10T14:37:34.6758239+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\MarryRich\MarryRich\MarryRich.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\MarryRich\MarryRich\MarryRich.vcxproj</ProjectName>
+      <CreatedDate>2017-05-10T14:36:04.6681526+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7M59.8904249S" EditActiveTime="PT7M4.9256595S">
+      <ModifiedDate>2017-05-10T14:21:29.2486156+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-10T14:02:20.7100233+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT30M36.4038541S" EditActiveTime="PT28M45.633067S">
+      <ModifiedDate>2017-05-10T14:29:26.8492549+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\MarryRich\MarryRich\MarryRich.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\MarryRich\MarryRich\MarryRich.vcxproj</ProjectName>
+      <CreatedDate>2017-05-10T12:34:56.2366548+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M37.8524291S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>c:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\MarryRich\MarryRich\MarryRich.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 2\MarryRich\MarryRich\MarryRich.vcxproj</ProjectName>
+      <CreatedDate>2017-05-10T12:25:52.4982741+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
